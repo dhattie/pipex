@@ -14,7 +14,7 @@ NAME	= pipex
 CC		= gcc
 HEADER	= pipex.h
 
-LIBFT	= ./Libft/libft.a
+LIBFT	= libft.a
 
 SRCS	=  pipex.c \
            ft_pipex_utils_bonus_part_1.c \

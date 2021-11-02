@@ -20,7 +20,7 @@
 # include <sys/wait.h>
 # include <errno.h>
 # include <sys/fcntl.h>
-# include "Libft/libft.h"
+# include "libft.h"
 
 int		*ft_create_pids(int argc);
 void	ft_print_error(char *str);
